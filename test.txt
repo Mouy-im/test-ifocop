@@ -1,3 +1,8 @@
 Test - ifocop
 
 Hello
+
+git add .
+git commit -m "commentaire"
+git push
+
